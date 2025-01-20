@@ -1,0 +1,3 @@
+C:/Users/C.Gaillard/source/repos/CMakeNinja/out/build/x64-release/CMakeFiles/CMakeNinja.dir
+C:/Users/C.Gaillard/source/repos/CMakeNinja/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/C.Gaillard/source/repos/CMakeNinja/out/build/x64-release/CMakeFiles/rebuild_cache.dir
