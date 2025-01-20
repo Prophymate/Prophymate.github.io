@@ -17,4 +17,4 @@ target_include_directories(CMakeNinja PUBLIC ${ALL_HEADERS})
 target_compile_features(CMakeNinja PUBLIC cxx_std_20)
 
 
-//target_link_libraries(CMakeNinja sfml-graphics sfml-window sfml-system)
+#target_link_libraries(CMakeNinja sfml-graphics sfml-window sfml-system)
